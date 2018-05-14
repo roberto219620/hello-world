@@ -1,4 +1,3 @@
 # hello-world
 
-Roba a caso...
-...su più linee
+Roba a caso su una linea
